@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokemonInfiniteScroll/static/css/main.8ab7aee2.css",
+    "main.js": "/PokemonInfiniteScroll/static/js/main.208fbdac.js",
+    "static/js/453.3a0454f3.chunk.js": "/PokemonInfiniteScroll/static/js/453.3a0454f3.chunk.js",
+    "index.html": "/PokemonInfiniteScroll/index.html",
+    "main.8ab7aee2.css.map": "/PokemonInfiniteScroll/static/css/main.8ab7aee2.css.map",
+    "main.208fbdac.js.map": "/PokemonInfiniteScroll/static/js/main.208fbdac.js.map",
+    "453.3a0454f3.chunk.js.map": "/PokemonInfiniteScroll/static/js/453.3a0454f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ab7aee2.css",
+    "static/js/main.208fbdac.js"
+  ]
+}
