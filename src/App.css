@@ -48,14 +48,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   height: 40px;
 }
 
 .loading {
   margin: 50px;
   text-align: center;
-  background-color: #ff8787;
+  color: white;
+  /* background-color: #ff8787; */
 }
 
 .spinner {
